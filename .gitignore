@@ -1,4 +1,15 @@
-target/
+/data
+/work
+/logs
+/.idea
+/target
+.DS_Store
+*.iml
+/.project
+/.settings
+/.classpath
+/*.ipr
+/*.iws
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
